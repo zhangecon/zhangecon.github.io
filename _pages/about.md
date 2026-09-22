@@ -8,23 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Prof. Dr. Lin Zhang is a Full Professor at [City University of Hong Kong](https://scholars.cityu.edu.hk/en/persons/lin-zhang(82d36211-2260-4aa7-9419-aa6e663fdaf6).html), and an Associate Director for the Institute of Global Governance and Innovation for a Shared Future. He has been appointed as a panel member of RAE 2026 by UGC Hong Kong, and serves as the editor of [The Energy Journal](https://journals.sagepub.com/home/enj). He joined CityUHK in 2016. Before that, he worked in the Center of Economic Research at ETH Zurich (2011-2016). He was a council member of the International Association for Energy Economics (IAEE), the regional representative of Asia-Oceania leaders in energy economics (2023-2025), the SUSI Scholar (economics and sustainable development) by the U.S. Department of State (2024), researcher associate at the Energy Science Center, and the Competence Center for Research in Energy, Society, and Transition in Switzerland (2015-2016). He has also been the Hong Kong Convention Ambassador appointed by the Hong Kong Tourism Board (2023-2026). Prof. Zhang has been listed in "Top 2% Scientists" by Stanford University, "Top 2% Economists (Last 10 years publications) by RePEc (Research Papers in Economics). He has also won many awards for his excellent research from regional and international professional organizations. Prof. Zhang recently authored a book titled "[Sustainability Economics](https://link.springer.com/book/9783031878282)", published by Springer Nature.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.09*: &nbsp;🎉🎉 Prof. Lin Zhang received the outstanding contribution award. 
+
 
 # 📝 Publications 
 
