@@ -36,22 +36,22 @@ Prof. Dr. Lin Zhang is a Full Professor at [City University of Hong Kong](https:
 
 
 # 🎖 Honors and Awards
-- * 2026* Best Paper Award for the paper titled "The Impacts of Carbon Polices on Energy Transition in China" at The 8th IAEE Asia-Oceania Conference in Qingdao
-- * 2025* Top Scholar (top 0.5% in Social Sciences, economics, and Overall) by ScholarGPS
-- * 2024* SUSI Scholar on Economics and Sustainable Development by the U.S. Department of State (one of the 18 Global Leaders)
-- * 2024* Top 2% most highly cited scientists by Stanford University
-- * 2024* Top Scholar (top 0.5% in Social Sciences and Overall) by ScholarGPS
-- * 2024* Excellent Young Researcher Award of the School of Energy and Environment
-- * 2024* Best Paper Award for the paper titled "Visible hands: High temperatures, power rationing, and firm performances" by the International Conference on Climate and Energy Finance
-- * 2023* Outstanding paper award for the paper titled “High carbon path dependence, low carbon expectation, and green transition of technological paradigm” by China Society of Industrial Economics
-- * 2022* Honorable Mention Award for the CPSG Inaugural Best Policy Research Article Award
-- * 2021* Outstanding Paper Award at Global Paper Competition on Sustainable Paths Toward Carbon Neutrality
-- * 2021* Certificate of Merit for papers selected by The Hong Kong Institution of Engineers (HKIE)
-- * 2018* Outstanding reviewer for the Journal of Environmental Management
-- * 2017* Outstanding reviewer for Economic Modelling
-- * 2015* Best doctoral thesis by Swiss Association of Energy Economics <sup>[Ref](https://saee.ch/saee-student-awards/)</sup>
-- * 2014* Fellow of the UBS International Center of Economics in Society 
-- * 2011* Young economist nominated by OFID (The OPEC Fund for International Development) for the 4th Lindau Nobel Laureate Meeting on Economic Sciences
+- 2026 Best Paper Award for the paper titled "The Impacts of Carbon Polices on Energy Transition in China" at The 8th IAEE Asia-Oceania Conference in Qingdao
+- 2025 Top Scholar (top 0.5% in Social Sciences, economics, and Overall) by ScholarGPS
+- 2024 SUSI Scholar on Economics and Sustainable Development by the U.S. Department of State (one of the 18 Global Leaders)
+- 2024 Top 2% most highly cited scientists by Stanford University
+- 2024 Top Scholar (top 0.5% in Social Sciences and Overall) by ScholarGPS
+- 2024 Excellent Young Researcher Award of the School of Energy and Environment
+- 2024 Best Paper Award for the paper titled "Visible hands: High temperatures, power rationing, and firm performances" by the International Conference on Climate and Energy Finance
+- 2023 Outstanding paper award for the paper titled “High carbon path dependence, low carbon expectation, and green transition of technological paradigm” by China Society of Industrial Economics
+- 2022 Honorable Mention Award for the CPSG Inaugural Best Policy Research Article Award
+- 2021 Outstanding Paper Award at Global Paper Competition on Sustainable Paths Toward Carbon Neutrality
+- 2021 Certificate of Merit for papers selected by The Hong Kong Institution of Engineers (HKIE)
+- 2018 Outstanding reviewer for the Journal of Environmental Management
+- 2017 Outstanding reviewer for Economic Modelling
+- 2015 Best doctoral thesis by Swiss Association of Energy Economics <sup>[Ref](https://saee.ch/saee-student-awards/)</sup>
+- 2014 Fellow of the UBS International Center of Economics in Society 
+- 2011 Young economist nominated by OFID (The OPEC Fund for International Development) for the 4th Lindau Nobel Laureate Meeting on Economic Sciences
 
 
 # 📖 Educations
