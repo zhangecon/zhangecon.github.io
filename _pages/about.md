@@ -31,7 +31,7 @@ Prof. Dr. Lin Zhang is a Full Professor at [City University of Hong Kong](https:
 </div>
 </div>
 
-- [**Full Publication List**](/pub/publications.html)
+- [**Full Publication List](publications.html)
 
 
 
