@@ -43,9 +43,23 @@ Prof. Dr. Lin Zhang is a Full Professor at [City University of Hong Kong](https:
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Work Experience
+- * 2026*	UAiTED Visiting Faculty, National ChengChi University
+- * 2025*	Associate Director, Institute of Global Governance and Innovation for a Shared Future, City University of Hong Kong (CityUHK)
+- * 2025*	Full Professor, School of Energy and Environment (SEE), joint Appointment with Department of Public and International Affairs (PIA), CityUHK
+- * 2024*	SUSI Visiting Scholar, the U.S. Department of State
+- * 2022 - 2024* 	Associate Professor, SEE & PIA, CityUHK
+- * 2016 - 2022* 	Assistant Professor, SEE & PIA, CityUHK
+- * 2015 - 2016* 	Postdoctoral Researcher, Center for Economic Research at ETH Zurich
+- * 2011 - 2015* 	Research Fellow, Chair of Economics/Resource Economics at ETH Zurich
+ 
+# 💬 Talks, Podcast, and Videos
+-   * Is your cooking stove a climate problem? - *CGTN‘s "Climate Watch" Podcast*. <sup>[Link](https://radio.cgtn.com/podcast/news/5/Is-your-cooking-stove-a-climate-problem/2715163)</sup>
+-  * The development of China's green finance. - *IAEE Podcast*. <sup>[Link](https://www.iaee.org/audio/zhang2/zhang2.mp3)</sup>
+-  * COVID-19 is changing the emission trajectories in China and at the global level. - *IAEE Podcast*. <sup>[Link](https://www.iaee.org/audio/zhang/LinZhang-podcast.mp3)</sup>
+-  * Climate Risks and Corporate Carbon Strategies. - *IAEE Webinar*. <sup>[Link](https://www.iaee.org/en/webinars/webinar_zhang6.aspx)</sup>
+-  * Climate Policy and Governance of Carbon Neutrality. - *IAEE Webinar*. <sup>[Link](https://www.iaee.org/en/webinars/webinar_zhang5.aspx)</sup>
+-  * The Thirst for Power: the Nexus on Climate Change, Water Scarcity, and Electricity Outage. - *IAEE Webinar*. <sup>[Link](https://www.iaee.org/en/webinars/webinar_zhang4.aspx)</sup>
+-  * Reforming China's Electricity Sector: The Potential Gains and Pitfalls. - *IAEE Webinar*. <sup>[Link](https://www.iaee.org/en/webinars/webinar_zhang3.aspx)</sup>
+-  * Energy Transition in China: Technology, Policy, and Society. - *IAEE Webinar*. <sup>[Link](https://www.iaee.org/en/webinars/webinar_zhang2.aspx)</sup>
+-  * Moving Green: Opportunities and Challenges of China's Recovery Plan. - *IAEE Webinar*. <sup>[Link](https://www.iaee.org/en/webinars/webinar_zhang.aspx)</sup> 
