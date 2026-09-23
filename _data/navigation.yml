@@ -18,5 +18,5 @@ main:
   - title: "Work Experience"
     url: "/#-work-experience"
 
- # - title: "Talks, Podcast, and Videos"
- #   url: "/#-talks-podcast-and-videos"
+  - title: "Podcast and Videos"
+    url: "/#-podcast-and-videos"
