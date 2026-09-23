@@ -20,7 +20,7 @@ Prof. Dr. Lin Zhang is a Full Professor at [City University of Hong Kong](https:
 
 # 📝 Publications 
 - [**Full Publication List**](publications.html)
-- [Post in public media](post.md)
+- [Post in public media](post.html)
   
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PNAS 2025</div><img src='images/pnas.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
