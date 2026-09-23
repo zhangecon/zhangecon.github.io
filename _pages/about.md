@@ -64,7 +64,7 @@ Prof. Dr. Lin Zhang is a Full Professor at [City University of Hong Kong](https:
 - 2015 - 2016 	Postdoctoral Researcher, Center for Economic Research at ETH Zurich
 - 2011 - 2015 	Research Fellow, Chair of Economics/Resource Economics at ETH Zurich
  
-# 💬 Talks, Podcast, and Videos
+# 💬 Podcast and Videos
 -  Is your cooking stove a climate problem? - *CGTN's "Climate Watch" Podcast*. <sup>[Link](https://radio.cgtn.com/podcast/news/5/Is-your-cooking-stove-a-climate-problem/2715163)</sup>
 -  The development of China's green finance. - *IAEE Podcast*. <sup>[Link](https://www.iaee.org/audio/zhang2/zhang2.mp3)</sup>
 -  COVID-19 is changing the emission trajectories in China and at the global level. - *IAEE Podcast*. <sup>[Link](https://www.iaee.org/audio/zhang/LinZhang-podcast.mp3)</sup>
