@@ -12,7 +12,8 @@ redirect_from:
 
 Prof. Dr. Lin Zhang is a Full Professor at [City University of Hong Kong](https://scholars.cityu.edu.hk/en/persons/lin-zhang(82d36211-2260-4aa7-9419-aa6e663fdaf6).html), and an Associate Director for the Institute of Global Governance and Innovation for a Shared Future. He has been appointed as a panel member of RAE 2026 by UGC Hong Kong, and serves as the editor of [The Energy Journal](https://journals.sagepub.com/home/enj). He joined CityUHK in 2016. Before that, he worked in the Center of Economic Research at ETH Zurich (2011-2016). He was a council member of the International Association for Energy Economics (IAEE), the regional representative of Asia-Oceania leaders in energy economics (2023-2025), the SUSI Scholar (economics and sustainable development) by the U.S. Department of State (2024), researcher associate at the Energy Science Center, and the Competence Center for Research in Energy, Society, and Transition in Switzerland (2015-2016). He has also been the Hong Kong Convention Ambassador appointed by the Hong Kong Tourism Board (2023-2026). Prof. Zhang has been listed in "Top 2% Scientists" by Stanford University, "Top 2% Economists (Last 10 years publications) by RePEc (Research Papers in Economics). He has also won many awards for his excellent research from regional and international professional organizations. He received his bachelor degree (double degrees in economics and mechanical engineering) from Peking University and MSc and PhD from ETH Zurich. Prof. Zhang recently authored a book titled "[Sustainability Economics](https://link.springer.com/book/9783031878282)", published by Springer Nature.
 
-
+[**Prof. Zhang leads the Laboratory of Energy Economics and Environmental Management (E3M)**](student.html)
+  
 # 🔥 News
 - *2026.09*: &nbsp;🎉🎉 Prof. Lin Zhang received the outstanding contribution award. 
 
@@ -36,9 +37,6 @@ Cong Li, Minglai Li, **Lin Zhang**, Qiang Li, Hua Zheng, & Marcus W. Feldman
 [科学网](https://news.sciencenet.cn/htmlnews/2025/1/537535.shtm)
 </div>
 </div>
-
-
-
 
 
 # 🎖 Honors and Awards
