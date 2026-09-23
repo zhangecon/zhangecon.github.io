@@ -30,6 +30,10 @@ Cong Li, Minglai Li, **Lin Zhang**, Qiang Li, Hua Zheng, & Marcus W. Feldman
 [公众号推送](https://mp.weixin.qq.com/s/zBeH2bn6h5kG023w6y9gtA)
 [NSFC报道](https://www.nsfc.gov.cn/p1/3381/2825/68086.html)
 [人民网](http://m.people.cn/n4/2025/0116/c1531-21502895.html)
+[新浪网](https://finance.sina.com.cn/tjhz/2025-02-11/doc-inekasqh2766282.shtml)
+[腾讯网](https://news.qq.com/rain/a/20250116A037NH00)
+[搜狐网](https://www.sohu.com/a/850977758_121443915)
+[科学网](https://news.sciencenet.cn/htmlnews/2025/1/537535.shtm)
 </div>
 </div>
 
