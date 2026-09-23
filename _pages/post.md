@@ -1,8 +1,14 @@
 ---
-title: "Media Post"
+permalink: /post/
+title: ""
 excerpt: "My articles published in public media"
-collection: portfolio
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+
+
 
 **Non-peer-reviewed Media Articles**:
 
