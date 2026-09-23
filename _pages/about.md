@@ -20,14 +20,16 @@ Prof. Dr. Lin Zhang is a Full Professor at [City University of Hong Kong](https:
 # 📝 Publications 
 - [**Full Publication List**](publications.html)
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PNAS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PNAS 2025</div><img src='images/pnas.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Energy–poverty–inequality SDGs: A large-scale household analysis and forecasting in China](https://www.pnas.org/doi/epdf/10.1073/pnas.2408167121)
 
 Cong Li, Minglai Li, **Lin Zhang**, Qiang Li, Hua Zheng, & Marcus W. Feldman
 
-[]
+[公众号推送](https://mp.weixin.qq.com/s/zBeH2bn6h5kG023w6y9gtA)
+[NSFC报道](https://www.nsfc.gov.cn/p1/3381/2825/68086.html)
+[人民网](http://m.people.cn/n4/2025/0116/c1531-21502895.html)
 </div>
 </div>
 
