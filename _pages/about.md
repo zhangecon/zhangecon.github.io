@@ -36,6 +36,12 @@ Cong Li, Minglai Li, **Lin Zhang**, Qiang Li, Hua Zheng, & Marcus W. Feldman
 [腾讯网](https://news.qq.com/rain/a/20250116A037NH00)
 [搜狐网](https://www.sohu.com/a/850977758_121443915)
 [科学网](https://news.sciencenet.cn/htmlnews/2025/1/537535.shtm)
+[紫荆号](https://bau.com.hk/web/article/1339277991757660160/web/content_1339277991757660160.html)
+[东方日报](https://orientaldaily.on.cc/content/%E8%A6%81%E8%81%9E%E6%B8%AF%E8%81%9E/odn-20250210-0210_00176_025/%E5%9F%8E%E5%A4%A7%EF%BC%9A%E8%BD%89%E7%94%A8%E6%B8%85%E6%BD%94%E7%85%AE%E9%A3%9F%E7%87%83%E6%96%99--%E5%8F%AF%E5%A2%9E%E5%AE%B6%E5%BA%AD%E6%94%B6%E5%85%A5#:~:text=%E5%9F%8E%E5%A4%A7%E8%83%BD%E6%BA%90%E5%8F%8A%E7%92%B0%E5%A2%83,%E5%8A%A9%E6%B8%9B%E5%B0%91%E6%94%B6%E5%85%A5%E4%B8%8D%E5%B9%B3%E7%AD%89%E3%80%82)
+[文汇报](https://www.wenweipo.com/a/202502/10/AP67a90cb0e4b0b6d13e98d914.html)
+[TriplePundit](https://triplepundit.com/2025/clean-cooking-fuel-china/)
+[Yahoo!](https://www.wenweipo.com/a/202502/10/AP67a90cb0e4b0b6d13e98d914.html)
+[Line Today](https://today.line.me/hk/v2/article/5y7k8ey)
 </div>
 </div>
 
