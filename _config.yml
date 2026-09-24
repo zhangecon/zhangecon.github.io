@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9qpMwO4AAAAJ&hl=zh-CN"
-  email            : "Lorem@ipsum.com"
+  email            : # "Lorem@ipsum.com"
   researchgate     :  "https://www.researchgate.net/profile/Lin-Zhang-34"
   uri              :
   bitbucket        :
