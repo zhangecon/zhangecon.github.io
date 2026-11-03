@@ -15,6 +15,7 @@ Prof. Dr. Lin Zhang is a Full Professor at [City University of Hong Kong](https:
 [**Prof. Zhang leads the Laboratory of Energy Economics and Environmental Management (E3M)**](student.html)
   
 # 🔥 News
+- *2026.11*: &nbsp;🎉🎉 Prof. Lin Zhang has been elected as Vice President (Academic Affairs) of International Association for Energy Economics starting from Jan. 2027. 
 - *2026.09*: &nbsp;🎉🎉 Prof. Lin Zhang received the outstanding contribution award. 
 
 
